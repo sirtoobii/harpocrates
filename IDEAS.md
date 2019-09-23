@@ -14,4 +14,5 @@ In this file we list possible techniques to (re-)indentfiy a user.
 - Canvas Fingerprinting
 - Browser plugins
 - Window size
+- Keystrocke input timeings
 - Many, many more. I think you are busted anyways with javascript turned on...
